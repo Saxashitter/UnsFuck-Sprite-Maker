@@ -1,6 +1,6 @@
 # UnsFuck Sprite Maker
 
-This tool written in NodeJS is to make spritesers for the game UNSTOPPABLE FUCK. The game can be found [here](https://github.com/Saxashitter/UNSTOPPABLE-FUCK-Poyo-and-the-Refill-Mart)
+This tool written in NodeJS is to make spritesets for the game UNSTOPPABLE FUCK. The game can be found [here](https://github.com/Saxashitter/UNSTOPPABLE-FUCK-Poyo-and-the-Refill-Mart)
 
 # How to use
 
