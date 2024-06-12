@@ -1,0 +1,16 @@
+{
+  "name": "unsfuck-sprite-packer",
+  "version": "1.0.0",
+  "description": "Packs spritesheets for the game UNSTOPPABLE FUCK: Poyo and the Refill Mart",
+  "main": "index.js",
+  "scripts": {
+    "pack": "index.js"
+  },
+  "author": "Saxashitter",
+  "license": "ISC",
+  "dependencies": {
+    "deasync": "^0.1.30",
+    "jimp": "^0.22.12",
+    "maxrects-packer": "^2.7.3"
+  }
+}
